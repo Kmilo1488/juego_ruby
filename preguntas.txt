@@ -1,0 +1,10 @@
+Podemos reutilizar la implementacion del codigo utilizando
+Herencia
+Conjunto de objetos que realizan una tarea determinada
+Clase
+Usado para definir una función
+def
+Estructura de dato que alberga valores del mismo tipo
+Arreglo
+Accion que realiza un objeto
+Metodo
